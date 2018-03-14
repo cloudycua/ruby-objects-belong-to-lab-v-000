@@ -5,4 +5,4 @@ class Song
     @title = title
   end
 
-ends
+end
